@@ -1,0 +1,15 @@
+# MATLAB
+*.asv
+*.m~
+*.mat
+
+# ANSYS Fluent (ficheros pesados)
+*.cas
+*.dat
+*.cas.h5
+*.dat.h5
+*.trn
+
+# Sistema
+.DS_Store
+Thumbs.db
